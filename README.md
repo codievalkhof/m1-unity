@@ -8,7 +8,7 @@ opdracht 1
 
 
 
-
+rood huisje
 
 
 
@@ -22,6 +22,8 @@ opdracht 2
 
 
 
+daaiende coin
+
 
 opdracht3
 
@@ -32,3 +34,9 @@ opdracht3
 
 
 ![opdracht 3 game dev](https://github.com/user-attachments/assets/2d67d564-5d74-430a-a02e-d2740dd62140)
+
+
+
+
+
+stuiterende ball
