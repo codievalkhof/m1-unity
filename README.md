@@ -1,8 +1,4 @@
 # unity via github
-helemaal mee eens
-
-dit is een test voor gifs
-
-![unity gif](https://github.com/user-attachments/assets/5f1d0139-9fff-461a-8880-b4b28dc51f44)
-
-sscnsakfbsdjhfc
+opdracht 1
+![opdracht 1 game dev](https://github.com/user-attachments/assets/6cc56cc9-97d8-4e8a-9c6c-5beb00e6f8eb)
+opdracht 2
